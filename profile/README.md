@@ -5,4 +5,4 @@
 - 사이트: https://ktb-4th-ax.github.io/
 - 프로젝트 목록: https://ktb-4th-ax.github.io/plugins/
 - 동아리원: https://ktb-4th-ax.github.io/members/
-- 아카이브 레포: [ktb-4th-ax.github.io](https://github.com/KTB-4th-AX/ktb-4th-ax.github.io)
+- 사이트 레포: [ktb-4th-ax.github.io](https://github.com/KTB-4th-AX/ktb-4th-ax.github.io)
